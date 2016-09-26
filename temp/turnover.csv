@@ -1,0 +1,738 @@
+2015-01-05,"[turnover    6.692222
+dtype: float64, turnover    1.404444
+dtype: float64]"
+2015-01-06,"[turnover    5.846667
+dtype: float64, turnover    1.517778
+dtype: float64]"
+2015-01-07,"[turnover    4.785556
+dtype: float64, turnover    1.027778
+dtype: float64]"
+2015-01-08,"[turnover    4.358889
+dtype: float64, turnover    1.036667
+dtype: float64]"
+2015-01-09,"[turnover    4.941111
+dtype: float64, turnover    1.021111
+dtype: float64]"
+2015-01-12,"[turnover    3.671111
+dtype: float64, turnover    1.007778
+dtype: float64]"
+2015-01-13,"[turnover    3.328889
+dtype: float64, turnover    0.841111
+dtype: float64]"
+2015-01-14,"[turnover    2.323333
+dtype: float64, turnover    0.757778
+dtype: float64]"
+2015-01-15,"[turnover    2.635556
+dtype: float64, turnover    0.7
+dtype: float64]"
+2015-01-16,"[turnover    3.377778
+dtype: float64, turnover    0.756667
+dtype: float64]"
+2015-01-19,"[turnover    4.176667
+dtype: float64, turnover    1.072222
+dtype: float64]"
+2015-01-20,"[turnover    3.316667
+dtype: float64, turnover    0.877778
+dtype: float64]"
+2015-01-21,"[turnover    4.186667
+dtype: float64, turnover    1.212222
+dtype: float64]"
+2015-01-22,"[turnover    3.933333
+dtype: float64, turnover    1.294444
+dtype: float64]"
+2015-01-23,"[turnover    3.776667
+dtype: float64, turnover    1.317778
+dtype: float64]"
+2015-01-26,"[turnover    4.351111
+dtype: float64, turnover    1.458889
+dtype: float64]"
+2015-01-27,"[turnover    5.011111
+dtype: float64, turnover    1.367778
+dtype: float64]"
+2015-01-28,"[turnover    3.308889
+dtype: float64, turnover    1.003333
+dtype: float64]"
+2015-01-29,"[turnover    3.725556
+dtype: float64, turnover    0.821111
+dtype: float64]"
+2015-01-30,"[turnover    3.28
+dtype: float64, turnover    1.014444
+dtype: float64]"
+2015-02-02,"[turnover    2.058889
+dtype: float64, turnover    0.865556
+dtype: float64]"
+2015-02-03,"[turnover    3.02
+dtype: float64, turnover    0.727778
+dtype: float64]"
+2015-02-04,"[turnover    2.953333
+dtype: float64, turnover    0.815556
+dtype: float64]"
+2015-02-05,"[turnover    3.481111
+dtype: float64, turnover    1.0
+dtype: float64]"
+2015-02-06,"[turnover    3.56
+dtype: float64, turnover    0.827778
+dtype: float64]"
+2015-02-09,"[turnover    2.544444
+dtype: float64, turnover    0.598889
+dtype: float64]"
+2015-02-10,"[turnover    2.541111
+dtype: float64, turnover    0.555556
+dtype: float64]"
+2015-02-11,"[turnover    3.005556
+dtype: float64, turnover    0.566667
+dtype: float64]"
+2015-02-12,"[turnover    3.544444
+dtype: float64, turnover    0.572222
+dtype: float64]"
+2015-02-13,"[turnover    3.578889
+dtype: float64, turnover    0.916667
+dtype: float64]"
+2015-02-16,"[turnover    3.652222
+dtype: float64, turnover    0.816667
+dtype: float64]"
+2015-02-17,"[turnover    4.856667
+dtype: float64, turnover    0.898889
+dtype: float64]"
+2015-02-24,"[turnover    0.148889
+dtype: float64, turnover    0.026667
+dtype: float64]"
+2015-02-25,"[turnover    5.177778
+dtype: float64, turnover    0.715556
+dtype: float64]"
+2015-02-26,"[turnover    3.904444
+dtype: float64, turnover    0.798889
+dtype: float64]"
+2015-02-27,"[turnover    4.521111
+dtype: float64, turnover    0.923333
+dtype: float64]"
+2015-03-02,"[turnover    4.38
+dtype: float64, turnover    1.443333
+dtype: float64]"
+2015-03-03,"[turnover    4.168889
+dtype: float64, turnover    1.487778
+dtype: float64]"
+2015-03-04,"[turnover    4.897778
+dtype: float64, turnover    1.255556
+dtype: float64]"
+2015-03-05,"[turnover    6.286667
+dtype: float64, turnover    1.526667
+dtype: float64]"
+2015-03-06,"[turnover    6.177778
+dtype: float64, turnover    1.332222
+dtype: float64]"
+2015-03-09,"[turnover    4.73
+dtype: float64, turnover    1.41
+dtype: float64]"
+2015-03-10,"[turnover    4.771111
+dtype: float64, turnover    1.32
+dtype: float64]"
+2015-03-11,"[turnover    5.088889
+dtype: float64, turnover    1.497778
+dtype: float64]"
+2015-03-12,"[turnover    4.037778
+dtype: float64, turnover    1.458889
+dtype: float64]"
+2015-03-13,"[turnover    3.532222
+dtype: float64, turnover    1.221111
+dtype: float64]"
+2015-03-16,"[turnover    4.763333
+dtype: float64, turnover    1.911111
+dtype: float64]"
+2015-03-17,"[turnover    6.455556
+dtype: float64, turnover    2.312222
+dtype: float64]"
+2015-03-18,"[turnover    5.441111
+dtype: float64, turnover    2.225556
+dtype: float64]"
+2015-03-19,"[turnover    5.845556
+dtype: float64, turnover    2.036667
+dtype: float64]"
+2015-03-20,"[turnover    5.904444
+dtype: float64, turnover    2.372222
+dtype: float64]"
+2015-03-23,"[turnover    6.393333
+dtype: float64, turnover    2.887778
+dtype: float64]"
+2015-03-24,"[turnover    6.338889
+dtype: float64, turnover    2.495556
+dtype: float64]"
+2015-03-25,"[turnover    5.881111
+dtype: float64, turnover    2.473333
+dtype: float64]"
+2015-03-26,"[turnover    6.797778
+dtype: float64, turnover    2.012222
+dtype: float64]"
+2015-03-27,"[turnover    7.148889
+dtype: float64, turnover    1.748889
+dtype: float64]"
+2015-03-30,"[turnover    8.188889
+dtype: float64, turnover    2.273333
+dtype: float64]"
+2015-03-31,"[turnover    8.292222
+dtype: float64, turnover    2.68
+dtype: float64]"
+2015-04-01,"[turnover    6.946667
+dtype: float64, turnover    2.215556
+dtype: float64]"
+2015-04-02,"[turnover    6.444444
+dtype: float64, turnover    2.288889
+dtype: float64]"
+2015-04-03,"[turnover    6.938889
+dtype: float64, turnover    2.348889
+dtype: float64]"
+2015-04-07,"[turnover    7.862222
+dtype: float64, turnover    2.952222
+dtype: float64]"
+2015-04-08,"[turnover    7.181111
+dtype: float64, turnover    2.928889
+dtype: float64]"
+2015-04-09,"[turnover    8.394444
+dtype: float64, turnover    2.962222
+dtype: float64]"
+2015-04-10,"[turnover    9.472222
+dtype: float64, turnover    2.867778
+dtype: float64]"
+2015-04-13,"[turnover    8.716667
+dtype: float64, turnover    3.447778
+dtype: float64]"
+2015-04-14,"[turnover    6.66
+dtype: float64, turnover    2.716667
+dtype: float64]"
+2015-04-15,"[turnover    7.118889
+dtype: float64, turnover    2.466667
+dtype: float64]"
+2015-04-16,"[turnover    5.57
+dtype: float64, turnover    1.994444
+dtype: float64]"
+2015-04-17,"[turnover    6.766667
+dtype: float64, turnover    2.217778
+dtype: float64]"
+2015-04-20,"[turnover    8.42
+dtype: float64, turnover    3.091111
+dtype: float64]"
+2015-04-21,"[turnover    6.568889
+dtype: float64, turnover    2.232222
+dtype: float64]"
+2015-04-22,"[turnover    7.318889
+dtype: float64, turnover    2.886667
+dtype: float64]"
+2015-04-23,"[turnover    6.673333
+dtype: float64, turnover    1.964444
+dtype: float64]"
+2015-04-24,"[turnover    6.052222
+dtype: float64, turnover    1.758889
+dtype: float64]"
+2015-04-27,"[turnover    7.196667
+dtype: float64, turnover    2.471111
+dtype: float64]"
+2015-04-28,"[turnover    6.422222
+dtype: float64, turnover    2.711111
+dtype: float64]"
+2015-04-29,"[turnover    5.673333
+dtype: float64, turnover    2.178889
+dtype: float64]"
+2015-04-30,"[turnover    7.702222
+dtype: float64, turnover    2.4
+dtype: float64]"
+2015-05-04,"[turnover    5.687778
+dtype: float64, turnover    1.838889
+dtype: float64]"
+2015-05-05,"[turnover    6.011111
+dtype: float64, turnover    1.862222
+dtype: float64]"
+2015-05-06,"[turnover    4.578889
+dtype: float64, turnover    1.59
+dtype: float64]"
+2015-05-07,"[turnover    4.377778
+dtype: float64, turnover    1.483333
+dtype: float64]"
+2015-05-08,"[turnover    4.505556
+dtype: float64, turnover    1.771111
+dtype: float64]"
+2015-05-11,"[turnover    5.724444
+dtype: float64, turnover    2.433333
+dtype: float64]"
+2015-05-12,"[turnover    5.737778
+dtype: float64, turnover    2.185556
+dtype: float64]"
+2015-05-13,"[turnover    6.158889
+dtype: float64, turnover    2.695556
+dtype: float64]"
+2015-05-14,"[turnover    6.548889
+dtype: float64, turnover    2.125556
+dtype: float64]"
+2015-05-15,"[turnover    6.288889
+dtype: float64, turnover    1.912222
+dtype: float64]"
+2015-05-18,"[turnover    6.717778
+dtype: float64, turnover    2.128889
+dtype: float64]"
+2015-05-19,"[turnover    6.302222
+dtype: float64, turnover    2.026667
+dtype: float64]"
+2015-05-20,"[turnover    7.373333
+dtype: float64, turnover    3.11
+dtype: float64]"
+2015-05-21,"[turnover    6.791111
+dtype: float64, turnover    2.657778
+dtype: float64]"
+2015-05-22,"[turnover    8.094444
+dtype: float64, turnover    2.692222
+dtype: float64]"
+2015-05-25,"[turnover    10.037778
+dtype: float64, turnover    3.232222
+dtype: float64]"
+2015-05-26,"[turnover    10.178889
+dtype: float64, turnover    3.573333
+dtype: float64]"
+2015-05-27,"[turnover    10.336667
+dtype: float64, turnover    3.064444
+dtype: float64]"
+2015-05-28,"[turnover    11.857778
+dtype: float64, turnover    3.643333
+dtype: float64]"
+2015-05-29,"[turnover    8.094444
+dtype: float64, turnover    2.853333
+dtype: float64]"
+2015-06-01,"[turnover    7.825556
+dtype: float64, turnover    2.395556
+dtype: float64]"
+2015-06-02,"[turnover    7.975556
+dtype: float64, turnover    2.702222
+dtype: float64]"
+2015-06-03,"[turnover    8.207778
+dtype: float64, turnover    2.271111
+dtype: float64]"
+2015-06-04,"[turnover    6.77
+dtype: float64, turnover    2.344444
+dtype: float64]"
+2015-06-05,"[turnover    8.512222
+dtype: float64, turnover    2.913333
+dtype: float64]"
+2015-06-08,"[turnover    9.865556
+dtype: float64, turnover    3.435556
+dtype: float64]"
+2015-06-09,"[turnover    7.885556
+dtype: float64, turnover    2.672222
+dtype: float64]"
+2015-06-10,"[turnover    6.63
+dtype: float64, turnover    2.46
+dtype: float64]"
+2015-06-11,"[turnover    6.325556
+dtype: float64, turnover    1.931111
+dtype: float64]"
+2015-06-12,"[turnover    7.458889
+dtype: float64, turnover    2.341111
+dtype: float64]"
+2015-06-15,"[turnover    7.996667
+dtype: float64, turnover    2.205556
+dtype: float64]"
+2015-06-16,"[turnover    6.822222
+dtype: float64, turnover    1.983333
+dtype: float64]"
+2015-06-17,"[turnover    6.47
+dtype: float64, turnover    1.774444
+dtype: float64]"
+2015-06-18,"[turnover    8.136667
+dtype: float64, turnover    1.986667
+dtype: float64]"
+2015-06-19,"[turnover    5.708889
+dtype: float64, turnover    1.774444
+dtype: float64]"
+2015-06-23,"[turnover    5.476667
+dtype: float64, turnover    2.12
+dtype: float64]"
+2015-06-24,"[turnover    6.405556
+dtype: float64, turnover    2.388889
+dtype: float64]"
+2015-06-25,"[turnover    6.301111
+dtype: float64, turnover    2.312222
+dtype: float64]"
+2015-06-26,"[turnover    4.925556
+dtype: float64, turnover    1.96
+dtype: float64]"
+2015-06-29,"[turnover    6.571111
+dtype: float64, turnover    2.674444
+dtype: float64]"
+2015-06-30,"[turnover    7.203333
+dtype: float64, turnover    3.543333
+dtype: float64]"
+2015-07-01,"[turnover    5.886667
+dtype: float64, turnover    2.507778
+dtype: float64]"
+2015-07-02,"[turnover    6.257778
+dtype: float64, turnover    2.497778
+dtype: float64]"
+2015-07-03,"[turnover    6.74
+dtype: float64, turnover    2.734444
+dtype: float64]"
+2015-07-06,"[turnover    8.302222
+dtype: float64, turnover    3.642222
+dtype: float64]"
+2015-07-07,"[turnover    5.585556
+dtype: float64, turnover    0.972222
+dtype: float64]"
+2015-07-08,"[turnover    9.927778
+dtype: float64, turnover    0.417778
+dtype: float64]"
+2015-07-09,"[turnover    10.506667
+dtype: float64, turnover    4.517778
+dtype: float64]"
+2015-07-10,"[turnover    7.322222
+dtype: float64, turnover    2.784444
+dtype: float64]"
+2015-07-13,"[turnover    10.467778
+dtype: float64, turnover    3.218889
+dtype: float64]"
+2015-07-14,"[turnover    11.652222
+dtype: float64, turnover    3.852222
+dtype: float64]"
+2015-07-15,"[turnover    7.936667
+dtype: float64, turnover    3.144444
+dtype: float64]"
+2015-07-16,"[turnover    6.713333
+dtype: float64, turnover    2.631111
+dtype: float64]"
+2015-07-17,"[turnover    6.52
+dtype: float64, turnover    2.626667
+dtype: float64]"
+2015-07-20,"[turnover    7.163333
+dtype: float64, turnover    2.731111
+dtype: float64]"
+2015-07-21,"[turnover    7.44
+dtype: float64, turnover    2.287778
+dtype: float64]"
+2015-07-22,"[turnover    8.31
+dtype: float64, turnover    2.607778
+dtype: float64]"
+2015-07-23,"[turnover    8.44
+dtype: float64, turnover    3.231111
+dtype: float64]"
+2015-07-24,"[turnover    8.902222
+dtype: float64, turnover    3.901111
+dtype: float64]"
+2015-07-27,"[turnover    7.972222
+dtype: float64, turnover    2.681111
+dtype: float64]"
+2015-07-28,"[turnover    8.973333
+dtype: float64, turnover    3.271111
+dtype: float64]"
+2015-07-29,"[turnover    8.477778
+dtype: float64, turnover    2.447778
+dtype: float64]"
+2015-07-30,"[turnover    8.541111
+dtype: float64, turnover    2.217778
+dtype: float64]"
+2015-07-31,"[turnover    6.311111
+dtype: float64, turnover    2.075556
+dtype: float64]"
+2015-08-03,"[turnover    6.991111
+dtype: float64, turnover    2.134444
+dtype: float64]"
+2015-08-04,"[turnover    6.707778
+dtype: float64, turnover    2.002222
+dtype: float64]"
+2015-08-05,"[turnover    7.432222
+dtype: float64, turnover    2.104444
+dtype: float64]"
+2015-08-06,"[turnover    4.656667
+dtype: float64, turnover    1.474444
+dtype: float64]"
+2015-08-07,"[turnover    5.991111
+dtype: float64, turnover    1.857778
+dtype: float64]"
+2015-08-10,"[turnover    7.632222
+dtype: float64, turnover    2.782222
+dtype: float64]"
+2015-08-11,"[turnover    8.57
+dtype: float64, turnover    2.866667
+dtype: float64]"
+2015-08-12,"[turnover    9.648889
+dtype: float64, turnover    2.763333
+dtype: float64]"
+2015-08-13,"[turnover    11.837778
+dtype: float64, turnover    2.767778
+dtype: float64]"
+2015-08-14,"[turnover    11.613333
+dtype: float64, turnover    3.383333
+dtype: float64]"
+2015-08-17,"[turnover    10.533333
+dtype: float64, turnover    3.45
+dtype: float64]"
+2015-08-18,"[turnover    9.525556
+dtype: float64, turnover    3.007778
+dtype: float64]"
+2015-08-19,"[turnover    8.585556
+dtype: float64, turnover    2.628889
+dtype: float64]"
+2015-08-20,"[turnover    6.224444
+dtype: float64, turnover    1.891111
+dtype: float64]"
+2015-08-21,"[turnover    6.778889
+dtype: float64, turnover    2.238889
+dtype: float64]"
+2015-08-24,"[turnover    4.277778
+dtype: float64, turnover    1.886667
+dtype: float64]"
+2015-08-25,"[turnover    4.343333
+dtype: float64, turnover    2.051111
+dtype: float64]"
+2015-08-26,"[turnover    9.134444
+dtype: float64, turnover    3.41
+dtype: float64]"
+2015-08-27,"[turnover    7.434444
+dtype: float64, turnover    2.483333
+dtype: float64]"
+2015-08-28,"[turnover    8.548889
+dtype: float64, turnover    2.182222
+dtype: float64]"
+2015-08-31,"[turnover    8.121111
+dtype: float64, turnover    2.11
+dtype: float64]"
+2015-09-01,"[turnover    8.715556
+dtype: float64, turnover    2.37
+dtype: float64]"
+2015-09-02,"[turnover    7.34
+dtype: float64, turnover    2.584444
+dtype: float64]"
+2015-09-07,"[turnover    6.958889
+dtype: float64, turnover    1.91
+dtype: float64]"
+2015-09-08,"[turnover    5.964444
+dtype: float64, turnover    1.457778
+dtype: float64]"
+2015-09-09,"[turnover    8.324444
+dtype: float64, turnover    2.161111
+dtype: float64]"
+2015-09-10,"[turnover    6.594444
+dtype: float64, turnover    1.487778
+dtype: float64]"
+2015-09-11,"[turnover    5.695556
+dtype: float64, turnover    1.105556
+dtype: float64]"
+2015-09-14,"[turnover    10.538889
+dtype: float64, turnover    1.698889
+dtype: float64]"
+2015-09-15,"[turnover    6.325556
+dtype: float64, turnover    1.346667
+dtype: float64]"
+2015-09-16,"[turnover    5.852222
+dtype: float64, turnover    1.301111
+dtype: float64]"
+2015-09-17,"[turnover    8.512222
+dtype: float64, turnover    1.591111
+dtype: float64]"
+2015-09-18,"[turnover    8.037778
+dtype: float64, turnover    0.91
+dtype: float64]"
+2015-09-21,"[turnover    6.85
+dtype: float64, turnover    1.104444
+dtype: float64]"
+2015-09-22,"[turnover    10.145556
+dtype: float64, turnover    1.625556
+dtype: float64]"
+2015-09-23,"[turnover    11.386667
+dtype: float64, turnover    1.408889
+dtype: float64]"
+2015-09-24,"[turnover    11.093333
+dtype: float64, turnover    1.092222
+dtype: float64]"
+2015-09-25,"[turnover    8.371111
+dtype: float64, turnover    1.294444
+dtype: float64]"
+2015-09-28,"[turnover    5.446667
+dtype: float64, turnover    0.78
+dtype: float64]"
+2015-09-29,"[turnover    5.078889
+dtype: float64, turnover    0.896667
+dtype: float64]"
+2015-09-30,"[turnover    3.821111
+dtype: float64, turnover    0.723333
+dtype: float64]"
+2015-10-07,"[turnover    0.132222
+dtype: float64, turnover    0.022222
+dtype: float64]"
+2015-10-08,"[turnover    4.962222
+dtype: float64, turnover    1.354444
+dtype: float64]"
+2015-10-09,"[turnover    5.368889
+dtype: float64, turnover    1.352222
+dtype: float64]"
+2015-10-12,"[turnover    7.973333
+dtype: float64, turnover    1.957778
+dtype: float64]"
+2015-10-13,"[turnover    9.665556
+dtype: float64, turnover    1.63
+dtype: float64]"
+2015-10-14,"[turnover    9.841111
+dtype: float64, turnover    1.587778
+dtype: float64]"
+2015-10-15,"[turnover    8.995556
+dtype: float64, turnover    1.716667
+dtype: float64]"
+2015-10-16,"[turnover    11.301111
+dtype: float64, turnover    2.372222
+dtype: float64]"
+2015-10-19,"[turnover    11.617778
+dtype: float64, turnover    2.221111
+dtype: float64]"
+2015-10-20,"[turnover    10.613333
+dtype: float64, turnover    1.672222
+dtype: float64]"
+2015-10-21,"[turnover    12.603333
+dtype: float64, turnover    2.363333
+dtype: float64]"
+2015-10-22,"[turnover    11.572222
+dtype: float64, turnover    1.573333
+dtype: float64]"
+2015-10-23,"[turnover    11.061111
+dtype: float64, turnover    2.084444
+dtype: float64]"
+2015-10-26,"[turnover    12.434444
+dtype: float64, turnover    2.28
+dtype: float64]"
+2015-10-27,"[turnover    9.971111
+dtype: float64, turnover    1.83
+dtype: float64]"
+2015-10-28,"[turnover    10.881111
+dtype: float64, turnover    2.006667
+dtype: float64]"
+2015-10-29,"[turnover    10.916667
+dtype: float64, turnover    2.883333
+dtype: float64]"
+2015-10-30,"[turnover    15.126667
+dtype: float64, turnover    2.046667
+dtype: float64]"
+2015-11-02,"[turnover    9.586667
+dtype: float64, turnover    1.512222
+dtype: float64]"
+2015-11-03,"[turnover    7.692222
+dtype: float64, turnover    1.393333
+dtype: float64]"
+2015-11-04,"[turnover    9.048889
+dtype: float64, turnover    2.18
+dtype: float64]"
+2015-11-05,"[turnover    11.105556
+dtype: float64, turnover    2.756667
+dtype: float64]"
+2015-11-06,"[turnover    9.801111
+dtype: float64, turnover    2.468889
+dtype: float64]"
+2015-11-09,"[turnover    11.548889
+dtype: float64, turnover    2.873333
+dtype: float64]"
+2015-11-10,"[turnover    11.463333
+dtype: float64, turnover    2.723333
+dtype: float64]"
+2015-11-11,"[turnover    10.731111
+dtype: float64, turnover    2.473333
+dtype: float64]"
+2015-11-12,"[turnover    10.613333
+dtype: float64, turnover    2.37
+dtype: float64]"
+2015-11-13,"[turnover    9.168889
+dtype: float64, turnover    2.086667
+dtype: float64]"
+2015-11-16,"[turnover    6.49
+dtype: float64, turnover    1.625556
+dtype: float64]"
+2015-11-17,"[turnover    7.892222
+dtype: float64, turnover    2.454444
+dtype: float64]"
+2015-11-18,"[turnover    6.587778
+dtype: float64, turnover    1.832222
+dtype: float64]"
+2015-11-19,"[turnover    5.624444
+dtype: float64, turnover    1.51
+dtype: float64]"
+2015-11-20,"[turnover    6.493333
+dtype: float64, turnover    1.835556
+dtype: float64]"
+2015-11-23,"[turnover    9.062222
+dtype: float64, turnover    1.547778
+dtype: float64]"
+2015-11-24,"[turnover    6.781111
+dtype: float64, turnover    1.342222
+dtype: float64]"
+2015-11-25,"[turnover    11.348889
+dtype: float64, turnover    1.697778
+dtype: float64]"
+2015-11-26,"[turnover    10.707778
+dtype: float64, turnover    1.932222
+dtype: float64]"
+2015-11-27,"[turnover    9.825556
+dtype: float64, turnover    2.314444
+dtype: float64]"
+2015-11-30,"[turnover    9.751111
+dtype: float64, turnover    2.005556
+dtype: float64]"
+2015-12-01,"[turnover    9.39
+dtype: float64, turnover    1.687778
+dtype: float64]"
+2015-12-02,"[turnover    8.27
+dtype: float64, turnover    1.587778
+dtype: float64]"
+2015-12-03,"[turnover    6.304444
+dtype: float64, turnover    1.543333
+dtype: float64]"
+2015-12-04,"[turnover    9.156667
+dtype: float64, turnover    1.726667
+dtype: float64]"
+2015-12-07,"[turnover    9.402222
+dtype: float64, turnover    1.682222
+dtype: float64]"
+2015-12-08,"[turnover    8.701111
+dtype: float64, turnover    1.656667
+dtype: float64]"
+2015-12-09,"[turnover    7.254444
+dtype: float64, turnover    1.404444
+dtype: float64]"
+2015-12-10,"[turnover    6.47
+dtype: float64, turnover    1.371111
+dtype: float64]"
+2015-12-11,"[turnover    5.8
+dtype: float64, turnover    1.207778
+dtype: float64]"
+2015-12-14,"[turnover    4.721111
+dtype: float64, turnover    1.247778
+dtype: float64]"
+2015-12-15,"[turnover    5.396667
+dtype: float64, turnover    1.323333
+dtype: float64]"
+2015-12-16,"[turnover    4.907778
+dtype: float64, turnover    1.122222
+dtype: float64]"
+2015-12-17,"[turnover    6.362222
+dtype: float64, turnover    2.03
+dtype: float64]"
+2015-12-18,"[turnover    7.011111
+dtype: float64, turnover    2.054444
+dtype: float64]"
+2015-12-21,"[turnover    6.774444
+dtype: float64, turnover    1.884444
+dtype: float64]"
+2015-12-22,"[turnover    8.008889
+dtype: float64, turnover    2.235556
+dtype: float64]"
+2015-12-23,"[turnover    10.367778
+dtype: float64, turnover    2.99
+dtype: float64]"
+2015-12-24,"[turnover    7.005556
+dtype: float64, turnover    1.871111
+dtype: float64]"
+2015-12-25,"[turnover    5.914444
+dtype: float64, turnover    1.258889
+dtype: float64]"
+2015-12-28,"[turnover    5.82
+dtype: float64, turnover    2.154444
+dtype: float64]"
+2015-12-29,"[turnover    4.158889
+dtype: float64, turnover    1.317778
+dtype: float64]"
+2015-12-30,"[turnover    4.598889
+dtype: float64, turnover    1.202222
+dtype: float64]"
+2015-12-31,"[turnover    3.896667
+dtype: float64, turnover    1.188889
+dtype: float64]"
